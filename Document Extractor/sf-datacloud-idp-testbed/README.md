@@ -39,6 +39,8 @@ sf-datacloud-idp-testbed/
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/BalavardhanReddy07/SF-DataCloud-Document-AI
+    cd SF-DataCloud-Document-AI
+    cd Document Extractor
     cd sf-datacloud-idp-testbed
     ```
 
@@ -227,4 +229,5 @@ This testbed is intended for development and testing purposes only. For producti
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
